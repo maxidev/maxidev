@@ -11,7 +11,7 @@
 
 - :key: PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
-- 📫 How to reach me **maxi.canellas@gmail.com**
+- 📫 How to reach me: [here](https://linkedin.com/in/maxicanellas)
 
 - ⚡ Fun fact: **Not your keys, not your coins.**
 
