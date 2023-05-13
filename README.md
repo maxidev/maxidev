@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on blockchain development and high performance backend engineering, mostly Rust and Solidity (EVM) at [Cryptologic](cryptologic.io)
 
-- 🔭 Also doing devOps/SRE on several tools and platforms like DigitalOcean, AWS, GCP, Azure, Docker, Kubernetes, Terraform, Datadog, Vault, Jenkins, etc
+- 🔭 Also doing devOps/SRE on several tools and platforms like AWS, Azure, GCP, Docker, Kubernetes, Terraform, Datadog, HashiCorp Vault, Jenkins, etc
 
 - 😄 Love to work with databases/mem-cache like MongoDB and Redis
 
