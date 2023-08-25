@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">tldr; +16y on IT, currently devOps / blockchain dev (Rust & Solidity)</h3>
+<h3 align="center">Sr. devOps / Solution Architect / blockchain dev (Rust)</h3>
 
-- 🔭 I’m currently working on blockchain development and high performance backend engineering, mostly Rust and Solidity (EVM) at [Cryptologic](cryptologic.io)
+- 🔭 I’m currently working as DevOps, blockchain development and high performance backend engineering, mostly Rust and Solidity (EVM) at [Cryptologic](cryptologic.io)
 
-- 🔭 Also doing devOps/SRE on several tools and platforms like AWS, Azure, GCP, Docker, Kubernetes, Terraform, Datadog, HashiCorp Vault, Jenkins, etc
+- 🔭 Using several tools and platforms like AWS, Azure, GCP, Docker, K8s, Terraform, Datadog, Vault, Jenkins, Ansible, Cloud-init, etc.
 
-- 😄 Love to work with databases/mem-cache like MongoDB and Redis
+- 😄 Love to work with databases/mem-cache/queues like MongoDB, RabbitMQ and Redis.
 
 - 💬 Ask me about **Bitcoin, Blockchain and Rust.**
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me: [here](https://linkedin.com/in/maxicanellas)
 
 - ⚡ Fun fact: **Not your keys, not your coins.**
+
+- AWS Cloud Practitioner Certified: [FN70CE8KWNV41X3X](documents/AWS_CP_CERT.pdf)  
 
 <p align="left">
 </p>
