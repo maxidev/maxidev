@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
 <h3 align="center">Sr. devOps / Solution Architect / blockchain dev </h3>
 
-- 🔭 I’m currently working as DevOps, and blockchain solutions architect mostly using Rust and Solidity languages at [Cryptologic](cryptologic.io)
+- 🔭 I’m currently working as DevOps and blockchain solution architect, mostly using Rust and Solidity languages at [Cryptologic](https://cryptologic.io)
 
-- 🔭 Using several tools and platforms like AWS, Azure, GCP, Docker, K8s, Terraform, Datadog, Vault, Jenkins, Ansible, Cloud-init, etc.
+- 🔭 Have experience with several tools and platforms like AWS, Azure, GCP, Docker, K8s, Terraform, Datadog, Vault, Jenkins, Ansible, Cloud-init, etc.
 
 - 😄 Love to work with databases/mem-cache/queues like MongoDB, RabbitMQ and Redis.
 
