@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxi</h1>
-<h3 align="center">Sr. devOps / Solution Architect / blockchain dev (Rust)</h3>
+<h3 align="center">Sr. devOps / Solution Architect / blockchain dev </h3>
 
-- 🔭 I’m currently working as DevOps, blockchain development and high performance backend engineering, mostly Rust and Solidity (EVM) at [Cryptologic](cryptologic.io)
+- 🔭 I’m currently working as DevOps, and blockchain solutions architect mostly using Rust and Solidity languages at [Cryptologic](cryptologic.io)
 
 - 🔭 Using several tools and platforms like AWS, Azure, GCP, Docker, K8s, Terraform, Datadog, Vault, Jenkins, Ansible, Cloud-init, etc.
 
