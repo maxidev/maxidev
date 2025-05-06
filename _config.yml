@@ -1,0 +1,38 @@
+# Site settings
+title: maxidev
+author: Maxi Dev
+email: me@maxidevops.com  # Add your email or remove if not needed
+description: >- 
+  Personal website of Maxi Dev featuring projects, blog posts, and more.
+baseurl: "" # Empty for user/organization pages (e.g., username.github.io)
+url: "https://maxidev.github.io" # Your GitHub Pages URL
+lang: en # Primary language for the site
+
+# Remote Theme
+remote_theme: "jekyll/minima@1e8a445"
+
+# Minima theme settings
+minima:
+  date_format: "%b %-d, %Y" # e.g. Nov 3, 2023
+  social_links:
+    github: maxidev # your GitHub username
+    linkedin: maxicanellas # your LinkedIn username
+
+# Plugins (required for remote theme)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap # Automatically generates a sitemap.xml
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
