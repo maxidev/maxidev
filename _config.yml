@@ -24,14 +24,20 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap # Automatically generates a sitemap.xml
+  - jekyll-readme-index # Enables using README.md as index
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
+# Use README.md as the home page
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: true
+
 # Exclude from processing
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
   - node_modules
