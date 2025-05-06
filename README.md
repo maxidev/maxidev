@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Maximiliano Canellas - SR. Solutions Architect & DevOps
+title: SR. Solutions Architect / devOps
 description: Solutions Architect and DevOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
 author: Maximiliano Canellas
 seo:
@@ -11,8 +11,6 @@ seo:
     - https://github.com/maxidev
     - https://keybase.io/maxidev
 ---
-
-<h1 align="center">SR. Solutions Architect / devOps </h1>
 
 With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
