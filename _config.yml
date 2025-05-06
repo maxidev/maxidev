@@ -9,7 +9,7 @@ url: "https://maxidev.github.io" # Your GitHub Pages URL
 lang: en # Primary language for the site
 
 # Remote Theme
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "jekyll/minima@v2.5.1"
 
 # Minima theme settings
 minima:
