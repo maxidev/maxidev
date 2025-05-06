@@ -1,18 +1,18 @@
 <h1 align="center">SR. Solutions Architect / devOps </h1>
 
-With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on infrastructure throughout my career. 
+With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
-Currently pioneering the development of MCP Servers and designing AI agents that leverage cutting-edge technologies to navigate and excel in the emerging AI landscape.
+Currently pioneering the development of MCP Servers and designing **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
-- 🔐 I'm currently implementing Hashicorp Vault infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
+- 🔐 I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
-- 🤖 Researching and building and implementing AI agents for workflow automation and intelligent infrastructure management
+- 🤖 Researching and building and implementing **AI agents** for workflow automation and intelligent **infrastructure management**
 
-- 🔭 Also been working as DevOps and blockchain solution architect, mostly using Rust and Solidity languages at [Cryptologic](https://cryptologic.io)
+- 🔭 Also been working as **DevOps** and blockchain solution architect, mostly using Rust and Solidity languages at [Cryptologic](https://cryptologic.io)
 
-- 🔭 Have experience with several tools and platforms like AWS, Azure, GCP, Docker, K8s, Terraform, Datadog, Vault, Jenkins, Ansible, Cloud-init, MCP servers, etc.
+- 🔭 Have experience with several tools and platforms like **AWS**, **Azure**, **GCP**, **Docker**, **K8s**, **Terraform**, **Datadog**, **Vault**, **Jenkins**, **Ansible**, **Cloud-init**, MCP servers, etc.
 
-- 😄 Love to work with databases/mem-cache/queues like MongoDB, RabbitMQ and Redis.
+- 😄 Love to work with databases/mem-cache/queues like **MongoDB**, **RabbitMQ** and **Redis**.
 
 - 💬 Ask me about **Bitcoin, Blockchain and Rust.**
 
@@ -21,8 +21,6 @@ Currently pioneering the development of MCP Servers and designing AI agents that
 - 🔑 PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
 - 📫 How to reach me: [here](https://linkedin.com/in/maxicanellas)
-
-- ⚡ Fun fact: **Not your keys, not your coins.**
 
 ## Certifications
 
