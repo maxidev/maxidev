@@ -1,7 +1,5 @@
 <h1 align="center">SR. Solutions Architect / devOps </h1>
 
-## About
-
 With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on infrastructure throughout my career. 
 
 Currently pioneering the development of MCP Servers and designing AI agents that leverage cutting-edge technologies to navigate and excel in the emerging AI landscape.
