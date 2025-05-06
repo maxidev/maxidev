@@ -1,9 +1,8 @@
 # Site settings
-title: My GitHub Pages Site
-author: Your Name
-description: A simple site using the Minima theme
+title: maxidev
+author: Maxi Dev
 baseurl: "" # Empty for user/organization pages (e.g., username.github.io)
-url: "https://username.github.io" # Your GitHub Pages URL
+url: "https://maxidev.github.io" # Your GitHub Pages URL
 
 # Remote Theme
 remote_theme: "jekyll/minima@1e8a445"
