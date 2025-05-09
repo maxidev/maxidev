@@ -1,7 +1,7 @@
 ---
 layout: home
-title: SR. Solutions Architect / devOps
-description: Solutions Architect and DevOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
+title: Sr. Solutions Architect / DevSecOps Engineer
+description: Solutions Architect and DevSecOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
 author: Maximiliano Canellas
 seo:
   type: Person
