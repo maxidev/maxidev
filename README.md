@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sr. Solutions Architect / DevSecOps Engineer
+title: Sr. Solutions Architect / Tech Lead / DevOps
 description: Solutions Architect and DevSecOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
 author: Maximiliano Canellas
 seo:
@@ -14,15 +14,14 @@ seo:
 
 With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
-Currently pioneering the development of MCP Servers and designing **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
+Currently pioneering the development of MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
 - 🔐 I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
 - 🤖 Researching and building and implementing **AI agents** for workflow automation and intelligent **infrastructure management**
 
-- 🔭 Also been working as **DevOps** and blockchain solution architect, mostly using Rust and Solidity languages at [Cryptologic](https://cryptologic.io)
 
-- 🔭 Have experience with several tools and platforms like **AWS**, **Azure**, **GCP**, **Docker**, **K8s**, **Terraform**, **Datadog**, **Vault**, **Jenkins**, **Ansible**, **Cloud-init**, MCP servers, etc.
+- 🔭 Have experience with several tools and platforms like **AWS**, **Azure**, **GCP**, Digital Ocean, **Docker**, **K8s**, **Terraform**, **Datadog**, **Vault**, **Jenkins**, **Ansible**, **Cloud-init**, MCP servers, etc.
 
 - 😄 Love to work with databases/mem-cache/queues like **MongoDB**, **RabbitMQ** and **Redis**.
 
