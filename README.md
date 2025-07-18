@@ -33,7 +33,7 @@ Currently pioneering the development of MCP Servers and designing **N8N Workflow
 
 - 📫 How to reach me: [here](https://linkedin.com/in/maxicanellas)
 
-- 📅 Book a call with me: [cal.com/maxidev](https://cal.com/maxidev)
+- 📅 Book a call with me: [cal.com/maxidevops](https://cal.com/maxidevops)
 
 ## Certifications
 
