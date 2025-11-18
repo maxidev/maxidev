@@ -41,15 +41,13 @@ With over 20 years of experience in information technology, I've evolved from cy
 
 - **2012-2017** CTO/Co-founder at Sinaptica Security: Led the development of advanced cybersecurity solutions, focusing on penetration testing, vulnerability assessments, and security audits for diverse clients.
 
-- Previous roles can be found in my [LinkedIn profile](https://linkedin.com/in/maxicanellas).
+- Previous expertise can be found in my [LinkedIn profile](https://linkedin.com/in/maxicanellas).
 
 ## Contact
 
 - PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
 - Github: [github.com/maxidev](https://github.com/maxidev)
-
-- Reach me [here](https://linkedin.com/in/maxicanellas)
 
 - Book a call with me: [cal.com/maxidevops](https://cal.com/maxidevops)
 
