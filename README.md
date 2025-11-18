@@ -19,7 +19,7 @@ seo:
 
 With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
-## About Me
+## About
 
 - I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
@@ -43,7 +43,7 @@ With over 20 years of experience in information technology, I've evolved from cy
 
 - Previous roles can be found in my [LinkedIn profile](https://linkedin.com/in/maxicanellas).
 
-### Contact
+## Contact
 
 - PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
