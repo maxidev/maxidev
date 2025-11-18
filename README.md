@@ -12,7 +12,7 @@ seo:
     - https://keybase.io/maxidev
 --- -->
 
-# Maximiliano Canellas - Sr. Solutions Architect / DevSecOps
+# SR. Solutions Architect / DevSecOps
 
 
 ### Summary 
