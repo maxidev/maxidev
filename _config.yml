@@ -1,9 +1,8 @@
 # Site settings
 title: Maximiliano Canellas
-author: ""
+author: 
 email: me@maxidevops.com  # Add your email or remove if not needed
-description: >- 
-  A personal page for sharing professional information and technical insights.
+description: A personal page for sharing professional information and technical insights.
 baseurl: "" # Empty for user/organization pages (e.g., username.github.io)
 url: "https://maxidev.github.io" # Your GitHub Pages URL
 lang: en # Primary language for the site
