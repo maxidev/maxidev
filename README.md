@@ -42,6 +42,8 @@ With over 20 years of experience in information technology, I've evolved from cy
 
 - PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
+- Github: [github.com/maxidev](https://github.com/maxidev)
+
 - Reach me [here](https://linkedin.com/in/maxicanellas)
 
 - Book a call with me: [cal.com/maxidevops](https://cal.com/maxidevops)
