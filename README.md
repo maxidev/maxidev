@@ -14,36 +14,35 @@ seo:
 
 With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
-Currently pioneering the development of MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
+## About Me
 
 - I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
-- Researching and building and implementing **AI agents** for workflow automation and intelligent **infrastructure management**
-
+- Researching and building MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
 - Have experience with several tools and platforms like **AWS**, **Azure**, **GCP**, Digital Ocean, **Docker**, **K8s**, **Terraform**, **Datadog**, **Vault**, **Jenkins**, **Ansible**, **Cloud-init**, MCP servers, etc.
 
 - Love to work with databases/mem-cache/queues like **MongoDB**, **RabbitMQ** and **Redis**.
 
-- Ask me about **Bitcoin, Blockchain and Rust.**
-
 - Speaker of ["Bitcoin in depth, a cryptographical journey (2014)"](https://www.youtube.com/watch?v=P_qWl7_p96g) - A technical dissertation on Bitcoin's cryptographic foundations
 
 ## Experience
 
-- [2024-Present] CTO/Founder at Bitsign: Leading the development of a secure cryptographic key management platform, focusing on hardware security modules (HSMs), multi-signature wallets, and enterprise-grade security solutions for blockchain applications.
+- **2024-Present** CTO/Founder at [Bitsign](https://bitsign.io/home): Leading the development of a secure cryptographic key management platform, focusing on hardware security modules (HSMs), multi-signature wallets, and enterprise-grade security solutions for blockchain applications.
 
-- [2020-2024] CTO at EMDX: Leading the architecture and development of a cutting-edge decentralized exchange platform, focusing on secure smart contract implementation, high-performance trading systems, and seamless user experience in the DeFi space.
+- **2020-2024** CTO at [EMDX](https://app.emdx.io/): Leading the architecture and development of a cutting-edge decentralized exchange platform, focusing on secure smart contract implementation, high-performance trading systems, and seamless user experience in the DeFi space.
 
-- [2017-2020] CTO/Co-founder at Cryptologic: Spearheaded the architecture and deployment of secure blockchain solutions, focusing on smart contract development and decentralized applications for various industries, including the ICO boom, where I led the team at [InfoCorp](https://medium.com/sentinelchain/infocorp-technologies-appoints-maximiliano-ca%C3%B1ellas-as-chief-technical-officer-b1111bddf0a6)
+- **2017-2020** CTO/Co-founder at [Cryptologic](https://cryptologic.io): Spearheaded the architecture and deployment of secure blockchain solutions, focusing on smart contract development and decentralized applications for various industries, including the ICO boom, where I led the team at [InfoCorp](https://medium.com/sentinelchain/infocorp-technologies-appoints-maximiliano-ca%C3%B1ellas-as-chief-technical-officer-b1111bddf0a6)
 
-- [2012-2017] CTO/Co-founder at Sinaptica Security: Led the development of advanced cybersecurity solutions, focusing on penetration testing, vulnerability assessments, and security audits for diverse clients.
+- **2012-2017** CTO/Co-founder at Sinaptica Security: Led the development of advanced cybersecurity solutions, focusing on penetration testing, vulnerability assessments, and security audits for diverse clients.
 
 - Previous roles can be found in my [LinkedIn profile](https://linkedin.com/in/maxicanellas).
 
+### Contact
+
 - PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
-- How to reach me: [here](https://linkedin.com/in/maxicanellas)
+- Reach me [here](https://linkedin.com/in/maxicanellas)
 
 - Book a call with me: [cal.com/maxidevops](https://cal.com/maxidevops)
 
