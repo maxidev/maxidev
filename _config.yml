@@ -1,9 +1,6 @@
 # Site settings
 title: Maximiliano Canellas
-author: ""
-email: me@maxidevops.com  # Add your email or remove if not needed
-description: A personal page for sharing professional information and technical insights.
-baseurl: "" # Empty for user/organization pages (e.g., username.github.io)
+description: Professional Page
 url: "https://maxidev.github.io" # Your GitHub Pages URL
 lang: en # Primary language for the site
 
@@ -16,19 +13,6 @@ minima:
   social_links:
     github: maxidev # your GitHub username
     linkedin: maxicanellas # your LinkedIn username
-
-# SEO settings
-# twitter:
-#   username: # your Twitter handle (without @)
-#   card: summary_large_image
-
-# Social media profiles
-# social:
-#   name: Maximiliano Canellas
-#   links:
-#     - https://linkedin.com/in/maxicanellas
-#     - https://github.com/maxidev
-#     - https://keybase.io/maxidev
 
 # Plugins (required for remote theme)
 plugins:
