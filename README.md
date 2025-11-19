@@ -6,7 +6,7 @@ With over 20 years of experience in information technology, I've evolved from **
 
 ## About
 
-- I'm currently implementing **Encryption Management** infrastructure to deliver state-of-the-art key technical solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
+- I'm currently implementing **Encryption Management** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
 - Researching and building MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
@@ -30,7 +30,9 @@ With over 20 years of experience in information technology, I've evolved from **
 
 ## Contact
 
-- Email: me@maxidevops.com | PGP [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
+- Email: me@maxidevops.com
+
+- PGP Key: [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
 - Github: [github.com/maxidev](https://github.com/maxidev)
 
