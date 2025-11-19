@@ -1,5 +1,3 @@
-# SR. Solutions Architect / DevSecOps
-
 ### Summary 
 
 With over 20 years of experience in information technology, I've evolved from **cybersecurity specialist** to **blockchain architect** and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
