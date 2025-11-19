@@ -1,17 +1,3 @@
-<!-- ---
-layout: home
-title: Sr. Solutions Architect / DevSecOps
-description: Solutions Architect and DevSecOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
-author: Maximiliano Canellas
-seo:
-  type: Person
-  name: Maximiliano Canellas
-  links:
-    - https://linkedin.com/in/maxicanellas
-    - https://github.com/maxidev
-    - https://keybase.io/maxidev
---- -->
-
 # SR. Solutions Architect / DevSecOps
 
 
@@ -21,7 +7,7 @@ With over 20 years of experience in information technology, I've evolved from **
 
 ## About
 
-- I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
+- I'm currently implementing **Encryption Management** infrastructure to deliver state-of-the-art key technical solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
 - Researching and building MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
@@ -44,6 +30,8 @@ With over 20 years of experience in information technology, I've evolved from **
 - Previous expertise can be found in my [LinkedIn profile](https://linkedin.com/in/maxicanellas).
 
 ## Contact
+
+- Email: me@maxidevops.com
 
 - PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
