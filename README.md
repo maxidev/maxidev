@@ -1,6 +1,6 @@
 ### Summary 
 
-With over 20 years of experience in information technology, I've evolved from **cybersecurity specialist** to **blockchain architect** and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
+With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
 ## About
 
@@ -12,7 +12,7 @@ With over 20 years of experience in information technology, I've evolved from **
 
 - Love to work with databases/mem-cache/queues like **MongoDB**, **RabbitMQ** and **Redis**.
 
-- Speaker of [Bitcoin in depth, a cryptographical journey (2014)](https://www.youtube.com/watch?v=P_qWl7_p96g) - A technical dissertation on Bitcoin's cryptographic foundations
+- Speaker of ["Bitcoin in depth, a cryptographical journey (2014)"](https://www.youtube.com/watch?v=P_qWl7_p96g) - A technical dissertation on Bitcoin's cryptographic foundations
 
 ## Experience
 
