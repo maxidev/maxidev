@@ -1,3 +1,17 @@
+<!-- ---
+layout: home
+title: Sr. Solutions Architect / DevSecOps
+description: Solutions Architect and DevSecOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
+author: Maximiliano Canellas
+seo:
+  type: Person
+  name: Maximiliano Canellas
+  links:
+    - https://linkedin.com/in/maxicanellas
+    - https://github.com/maxidev
+    - https://keybase.io/maxidev
+--- -->
+
 # SR. Solutions Architect / DevSecOps
 
 
