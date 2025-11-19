@@ -1,10 +1,27 @@
+<!-- ---
+layout: home
+title: Sr. Solutions Architect / DevSecOps
+description: Solutions Architect and DevSecOps with 20+ years of experience specializing in blockchain architecture, smart contracts, and AI agents.
+author: Maximiliano Canellas
+seo:
+  type: Person
+  name: Maximiliano Canellas
+  links:
+    - https://linkedin.com/in/maxicanellas
+    - https://github.com/maxidev
+    - https://keybase.io/maxidev
+--- -->
+
+# SR. Solutions Architect / DevSecOps
+
+
 ### Summary 
 
-With over 20 years of experience in information technology, I've evolved from cybersecurity specialist to blockchain architect and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
+With over 20 years of experience in information technology, I've evolved from **cybersecurity specialist** to **blockchain architect** and smart contracts developer, maintaining a proactive approach and strong focus on **infrastructure** throughout my career. 
 
 ## About
 
-- I'm currently implementing **Encryption Management** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
+- I'm currently implementing **Hashicorp Vault** infrastructure to deliver state-of-the-art key management solutions for blockchain wallet-as-a-service platforms and secure multi-chain interactions.
 
 - Researching and building MCP Servers and designing **N8N Workflows**, **AI agents** that leverage cutting-edge technologies to navigate and excel in the emerging **AI** landscape.
 
@@ -12,7 +29,7 @@ With over 20 years of experience in information technology, I've evolved from cy
 
 - Love to work with databases/mem-cache/queues like **MongoDB**, **RabbitMQ** and **Redis**.
 
-- Speaker of ["Bitcoin in depth, a cryptographical journey (2014)"](https://www.youtube.com/watch?v=P_qWl7_p96g) - A technical dissertation on Bitcoin's cryptographic foundations
+- Speaker of [Bitcoin in depth, a cryptographical journey (2014)](https://www.youtube.com/watch?v=P_qWl7_p96g) - A technical dissertation on Bitcoin's cryptographic foundations
 
 ## Experience
 
@@ -28,13 +45,11 @@ With over 20 years of experience in information technology, I've evolved from cy
 
 ## Contact
 
-- Email: me@maxidevops.com
-
-- PGP Key: [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
+- PGP Key:  [B1A9 8236 9DFD DEA8](https://keybase.io/maxidev/pgp_keys.asc)
 
 - Github: [github.com/maxidev](https://github.com/maxidev)
 
-- Book a call: [cal.com/maxidevops](https://cal.com/maxidevops)
+- Book a call with me: [cal.com/maxidevops](https://cal.com/maxidevops)
 
 <!-- ## Certifications
 
